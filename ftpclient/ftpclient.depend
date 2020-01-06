@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1572258110 source:c:\users\#1925\desktop\ftpclient\main.cpp
+	<winsock2.h>
+	<iostream>
+	<string>
+
+1572571914 source:c:\users\longde_huang\desktop\ftpclient-20191031t031010z-001\ftpclient\main.cpp
+	<winsock2.h>
+	<iostream>
+	<string>
+
+1574942776 source:c:\users\longde_huang\desktop\ftpclient\main.cpp
+	<winsock2.h>
+	<iostream>
+	<string>
+

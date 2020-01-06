@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1572256971 source:c:\users\#1925\desktop\ftpserver\main.cpp
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<WinSock2.h>
+	<iostream>
+	<string>
+	<sstream>
+
+1574575750 source:c:\users\longde_huang\desktop\ftpserver-20191031t031012z-001\ftpserver\main.cpp
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<WinSock2.h>
+	<iostream>
+	<string>
+	<sstream>
+
+1575970554 source:c:\users\longde_huang\desktop\ftpserver\main.cpp
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<WinSock2.h>
+	<iostream>
+	<string>
+	<sstream>
+	<sys/types.h>
+	<sys/stat.h>
+	<dirent.h>
+	<unistd.h>
+	<stdio.h>
+
